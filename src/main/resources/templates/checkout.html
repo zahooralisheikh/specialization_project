@@ -190,8 +190,13 @@
                             </li>
                         </ul>
 
-                        <form action="" method="post" th:action="@{/payNow}" >
-                            <button type="submit"  class="btn btn-warning btn-block waves-effect waves-light">Pay Now</button>
+                        <form  class="text-warning nav-link" th:href="@{/}" href="#" >
+                         
+                            
+                           
+                            <button type="submit"  class="btn btn-warning btn-block waves-effect waves-light">
+                             <a class="text-dark nav-link" th:href="@{/paypal}" href="#">PAY NOW</a>
+                            </button>
                         </form>
 
                     </div>
