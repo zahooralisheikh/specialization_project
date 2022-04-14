@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: rohit
+Build-Jdk: 17.0.1
+Implementation-Title: Demo_OneToOne
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.th
+Implementation-URL: https://spring.io/projects/spring-boot/Demo_OneToOne
+Created-By: Maven Integration for Eclipse
+
